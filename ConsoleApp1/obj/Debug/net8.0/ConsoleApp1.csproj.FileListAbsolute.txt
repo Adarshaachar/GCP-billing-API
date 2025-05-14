@@ -1,0 +1,4 @@
+D:\Spektra INTERNSHIP\Hackathon\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Spektra INTERNSHIP\Hackathon\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Spektra INTERNSHIP\Hackathon\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+D:\Spektra INTERNSHIP\Hackathon\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
